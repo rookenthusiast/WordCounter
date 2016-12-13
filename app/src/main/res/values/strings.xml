@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WordCounter</string>
+    <string name="cc_app_name">Cameron Confuzzled Word Count</string>
+    <string name="sentence">Type your sentence</string>
+    <string name="count">Press for word count</string>
+</resources>
